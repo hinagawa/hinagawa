@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Polina Salimullina
+- 👀 I’m interested in web, art, music and study
+- 🌱 I’m currently learning React, Flutter
