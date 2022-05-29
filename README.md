@@ -4,7 +4,7 @@ Hi 👋 My name is Polina
 Front-end developer
 -------------------
 
-I’m interested in web, art, music and study Dreaming to be a full stack developer
+I’m interested in web, art, music and study
 
 * 🧠  I'm learning React, Flutter, Vue, NodeJS
 
