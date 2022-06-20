@@ -36,7 +36,7 @@ I’m interested in web, art, music and study
 
 ### Badges
 
-[![codewars](https://www.codewars.com/users/username/badges/small)](https://www.codewars.com/users/username)
+[![codewars](https://www.codewars.com/users/hinagawa/badges/small)](https://www.codewars.com/users/username)
 
 <b>My GitHub Stats</b>
 
