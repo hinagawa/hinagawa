@@ -37,7 +37,7 @@ I’m interested in web, art, music and study
 ### Badges
 <b>Codewars</b>
 
-[![codewars](https://www.codewars.com/users/hinagawa/badges/small)](https://www.codewars.com/users/username)
+[![codewars](https://www.codewars.com/users/hinagawa/badges/small)](https://www.codewars.com/users/username)  ![](https://komarev.com/ghpvc/?username=hinagawa)
 
 <b>My GitHub Stats</b>
 
