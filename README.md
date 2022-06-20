@@ -36,6 +36,8 @@ I’m interested in web, art, music and study
 
 ### Badges
 
+[![codewars](https://www.codewars.com/users/username/badges/small)](https://www.codewars.com/users/username)
+
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/hinagawa"><img src="https://github-readme-stats.vercel.app/api?username=hinagawa&show_icons=true&hide=stars,prs,&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="hinagawa's GitHub stats" /></a>
