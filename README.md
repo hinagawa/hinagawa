@@ -1,6 +1,6 @@
 # 💫 Hello! 
 [![](https://visitcount.itsvg.in/api?id=hinagawa&icon=0&color=10)](https://visitcount.itsvg.in)
-<br>My name is Polina, I'm frontend developer. I'm learning to be fullstack dev. 
+<br>My name is Polina, I'm frontend developer.
 
 
 # 💻 Tech Stack:
