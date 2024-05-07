@@ -15,4 +15,3 @@ I'm a passionate Fullstack developer with a love for JavaScript. Welcome to my G
 Feel free to explore my repositories and reach out if you'd like to collaborate or have any questions!
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/hinagawa?theme=unicorn)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hinagawa&show_icons=true&theme=radical)
