@@ -10,7 +10,7 @@ I'm a passionate Fullstack developer with a love for JavaScript. Welcome to my G
 **Programming Languages:**  JavaScript, Python\
 **Technologies & Tools:**  React, TypeScropt, NextJS, NustJS, Express, Angular, Django, SQL, GIT, State managers, npx, pnpm, Docker\
 **Other:**  Accessibility, System Design, Responsive design, Figma, Agile, Scrum, SOLID, testing tools\
-**Soft Skills:**  Communication, Collaboration, Problem-solving, Critical thinking, Self-motivation, Decision-making.\
+**Soft Skills:**  Communication, Collaboration, Problem-solving, Critical thinking, Self-motivation, Decision-making.
 
 Feel free to explore my repositories and reach out if you'd like to collaborate or have any questions!
 
